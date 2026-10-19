@@ -38,3 +38,5 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 ![detective](img/detective.png)
 
 10. The key opened the chest’s secret compartment, which held a new battery for the time machine. Mira repaired it, and everyone traveled home to the castle. From then on, the robot dragon guarded the hill, and Pixel became the most famous talking cat in the kingdom. The end.
+
+![Back home at the castle](img/castle.png)
