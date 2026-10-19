@@ -18,6 +18,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 4. After that, everyone was teleported into a dark cave. Nobody knew exactly how they got there, but in the middle of the cave sat a treasure chest.
 
 5. Inside the chest was a map,but it had no directions, only a picture of stars. Mira realized it was a star map and could only be read from space.
+
 ![treasure](img/treasure_large.png) 
 
 6. “Let’s go to space!” shouted Captain Redbeard, who had been quietly following the group since the castle. 
