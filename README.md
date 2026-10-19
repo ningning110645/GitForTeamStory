@@ -29,6 +29,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 
 7. A rocket blasted off from the cave, and at the same moment Mira’s time machine broke down, because the rocket drained all of its power. 
+![rocket] (img/rocket.png)
 
 8. Pixel the cat jumped onto the map and said, “Follow the third star on the left. It points to the Whispering Forest.” <br>
 ![cat](img/cat.png)
