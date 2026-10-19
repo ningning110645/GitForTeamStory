@@ -33,5 +33,6 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 ![cat](img/cat.png)
 
 9.  In the forest, Detective Sam discovered a golden key buried under an old tree, the very key the map was hiding. 
+![detective](img/detective.png)
 
 10. The key opened the chest’s secret compartment, which held a new battery for the time machine. Mira repaired it, and everyone traveled home to the castle. From then on, the robot dragon guarded the hill, and Pixel became the most famous talking cat in the kingdom. The end.
