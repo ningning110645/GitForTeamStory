@@ -31,6 +31,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 8. Pixel the cat jumped onto the map and said, “Follow the third star on the left. It points to the Whispering Forest.” <br>
 ![cat](img/cat.png)
+![map](img/map.png)
 
 9.  In the forest, Detective Sam discovered a golden key buried under an old tree, the very key the map was hiding. 
 ![detective](img/detective.png)
