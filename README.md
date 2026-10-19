@@ -19,6 +19,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 3. Mira shouted, “The key to the treasure is hidden inside the dragon’s tail!” Everyone rushed over, and the villagers, a pirate named Captain Redbeard, and a detective named Sam all pressed the glowing button on its tail.
 
 4. After that, everyone was teleported into a dark cave. Nobody knew exactly how they got there, but in the middle of the cave sat a treasure chest.
+
 ![treasure_small](img/treasure_small.png) 
 
 5. Inside the chest was a map,but it had no directions, only a picture of stars. Mira realized it was a star map and could only be read from space.
@@ -30,7 +31,8 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 
 7. A rocket blasted off from the cave, and at the same moment Mira’s time machine broke down, because the rocket drained all of its power. 
-![rocket] (img/rocket.png)
+
+![rocket](img/rocket.png)
 
 8. Pixel the cat jumped onto the map and said, “Follow the third star on the left. It points to the Whispering Forest.” <br>
 ![cat](img/cat.png)
