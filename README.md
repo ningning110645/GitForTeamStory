@@ -9,6 +9,8 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 1. Once upon a time, there was a castle on a hill, where a young scientist named Mira lived with her cat, Pixel.
 
+![cat](img/cat.png) 
+
 2. Then suddenly, a dragon appeared in the sky. But when it landed, everyone saw gears and blinking lights. It was a robot dragon that Mira had secretly built.
 
 ![The robot dragon arriving](img/dragon.png)
