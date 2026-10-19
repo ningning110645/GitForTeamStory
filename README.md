@@ -11,6 +11,8 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 2. Then suddenly, a dragon appeared in the sky. But when it landed, everyone saw gears and blinking lights. It was a robot dragon that Mira had secretly built.
 
+![The robot dragon arriving](img/dragon.png)
+
 3. Mira shouted, “The key to the treasure is hidden inside the dragon’s tail!” Everyone rushed over, and the villagers, a pirate named Captain Redbeard, and a detective named Sam all pressed the glowing button on its tail.
 
 4. After that, everyone was teleported into a dark cave. Nobody knew exactly how they got there, but in the middle of the cave sat a treasure chest.
